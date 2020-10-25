@@ -20,9 +20,9 @@ text_skin: forest # "forest" (default), "dark", "forest", "ocean", "chocolate", 
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : 花儿柳儿瓜儿枣儿 # blog_name
+title   : 花儿柳儿瓜儿枣儿 
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+  A wild man from northeast China  
 
 
 ## => Language and Timezone
